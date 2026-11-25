@@ -75,7 +75,52 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Quality Assurance Lead
+
+### Role Summary
+Quality Assurance Leads own the test strategy and release readiness. They partner with developers and product managers to make quality visible throughout delivery.
+
+### Responsibilities
+- Define acceptance criteria and the test plan with the team
+- Review risk areas and coordinate regression testing
+- Verify release candidates against non-functional requirements
+- Track defects through resolution and report quality trends
+
+### Goals
+- Prevent escaped defects and release regressions
+- Keep verification fast, repeatable, and transparent
+- Build quality ownership across the team
+
+### Typical Communication
+- Test plans and release readiness summaries
+- Defect triage and quality metrics reviews
+- Risk notes in project status updates
+
+---
+
+## Stakeholders and Sponsors
+
+### Role Summary
+Stakeholders and sponsors provide business context, resources, and final acceptance. They represent the people who use or are affected by the project's outcomes.
+
+### Responsibilities
+- Clarify business outcomes and constraints
+- Review milestones and provide timely decisions
+- Remove organizational blockers and approve funding
+- Accept delivered outcomes or request changes
+
+### Goals
+- Align the project with business priorities
+- Realize the intended value without avoidable delay
+- Maintain accountability for scope and results
+
+### Typical Communication
+- Milestone reviews and steering updates
+- Written decisions on scope and trade-offs
+- Release announcements and outcome reviews
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
